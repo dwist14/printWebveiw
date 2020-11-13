@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrintWebview</string>
+    <string name="print_complete">Berhasil print</string>
+    <string name="print_failed">Gagal print</string>
+</resources>
